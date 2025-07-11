@@ -1,5 +1,6 @@
 # meals
 [APK](https://drive.google.com/file/d/1HOXE-oKInh3IPufRCIrpjYLm9vYgspeQ/view?usp=sharing)
+
 A Flutter-based meals catalog app that lets users browse through a variety of meals, filter them by dietary preferences, and mark favorites.
 
 ## ✨ Features
